@@ -38,4 +38,4 @@ A aplicação contará com as seguintes funcionalidades:
 
 1. Clone este repositório:
    ```bash
-   [git clone https://github.com/macabethian/To-do-list.git]
+   git clone https://github.com/macabethian/To-do-list.git
